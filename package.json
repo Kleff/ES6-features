@@ -1,0 +1,15 @@
+{
+  "name": "test-es6",
+  "version": "1.0.0",
+  "description": "test-es6",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src --out-dir dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.2.0",
+    "@babel/core": "^7.2.0"
+  }
+}
